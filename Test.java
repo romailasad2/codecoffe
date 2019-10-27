@@ -1,9 +1,9 @@
 public class Test {
     public static void main(String [] args)
     {
-        System.out.println("Hello World!");
-        System.out.println("Sb ka Maalik Aeek!!!");
-        System.out.println("Change");
-        System.out.println("Pak wheels");
+        Scanner input=new Scanner(System.in);
+        String gyanChodo;
+        gyanChodo=input.next();
+        System.out.println(gyanChodo);
     }
 }
