@@ -5,5 +5,6 @@ public class Test {
         String gyanChodo;
         gyanChodo=input.next();
         System.out.println(gyanChodo);
+        sout;
     }
 }
